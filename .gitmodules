@@ -1,0 +1,3 @@
+[submodule "src/vendor/kunci"]
+	path = src/vendor/kunci
+	url = git@github.com:mzaini30/kunci-terbaru.git
